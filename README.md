@@ -4,6 +4,8 @@
 
 ![design](design.jpeg)
 
+design credits: Zesan H. (https://www.linkedin.com/in/zesan/)
+
 ## Run on a device
 
 1. open the project in docker container (using vscode)
